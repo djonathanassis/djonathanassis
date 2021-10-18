@@ -7,6 +7,18 @@
 </div>
   
 <div align="center">
+    <h2>👤 Contato</h2>
+</div>
+<p align="center">
+    <a href="https://www.linkedin.com/in/djonathan-assis-oliveira-69963a9b/">
+        <img alt="Meu Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=djonathanassis&color=D7D2D0">
+    </a>
+    <a href="mailto:djonathanassis@gmail.com">
+        <img alt="Meu Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=djonathanassis@gmail.com&color=9E938E">
+    </a>
+</p>
+  
+<div align="center">
   <h2>📑 Tecnologias</h2>
   <p align="center">
       <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
