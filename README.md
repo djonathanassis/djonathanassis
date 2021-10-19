@@ -19,6 +19,18 @@
     </a>
 </p>
   
+  <div align="center">
+    <h2>✌ Redes Sociais</h2>
+</div>
+<p align="center">
+    <a href="https://www.facebook.com/profile.php?id=100014103574950">
+        <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/djonathanassisoliveira/" target="_blank">
+      <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+</p>
+  
 <div align="center">
   <h2>📑 Tecnologias</h2>
   <p align="center">
@@ -32,6 +44,8 @@
       <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
       <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
       <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
  
   </p>
 </div>
