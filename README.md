@@ -1,12 +1,6 @@
 ## ✌ Olá, tudo bem? Espero que sim...
 
 ### Meu nome é Djonathan Assis Oliveira, desenvolvedor Full Stack.
-
-<div align="center">
-  <a href="https://github.com/djonathanassis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djonathanassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djonathanassis&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 <div align="center">
     <h2>👤 Contato</h2>
@@ -49,4 +43,10 @@
       <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
  
   </p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/djonathanassis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djonathanassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djonathanassis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
